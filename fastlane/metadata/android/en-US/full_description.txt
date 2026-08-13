@@ -1,0 +1,53 @@
+<a href="https://hack-mas.at">Håck ma’s Castle</a> is an open castle for all kinds of nerds.
+
+We want to use the castle as an inclusive space and as an accessible entry point for sharing knowledge and exchanging experiences.
+
+Håcking means taking a creative approach to technology—for example with computers, sewing machines, society, and stovetops (food is important!).
+
+<b>Features:</b>
+
+<ul>
+<li>Daily overview of all program events (talks, workshops, excursions)</li>
+<li>Read detailed event descriptions</li>
+<li>Manage events in a personal favorites list</li>
+<li>Search and filter all events</li>
+<li>Export your favorites list</li>
+<li>Set alarms for events</li>
+<li>Add events to your calendar</li>
+<li>Share event descriptions and links with others</li>
+<li>Automatically update the program regularly</li>
+<li>View program changes</li>
+</ul>
+
+🔤 <b>Supported languages</b><br>
+(Program content excluded)
+
+<ul>
+<li>Danish</li>
+<li>German</li>
+<li>German, Austria</li>
+<li>English</li>
+<li>Finnish</li>
+<li>French</li>
+<li>Italian</li>
+<li>Japanese</li>
+<li>Lithuanian</li>
+<li>Dutch</li>
+<li>Polish</li>
+<li>Portuguese, Brazil</li>
+<li>Portuguese, Portugal</li>
+<li>Russian</li>
+<li>Spanish</li>
+<li>Swedish</li>
+<li>Turkish</li>
+</ul>
+
+🤝 You can help translate the app. See the link <a href="https://hack-mas.at">here</a>.
+
+💡 Questions about the program content can only be answered by the Hackmas26 content team. This app only provides the program.
+
+💣 Bug reports are very welcome! Please explain how to reproduce the problem and use the <a href="https://github.com/EventFahrplan/EventFahrplan/issues">issue tracker</a>.
+
+🏆 This app is based on the <b>EventFahrplan app</b> for the Chaos Computer Club Congress: <a href="https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule">EventFahrplan on Google Play</a>.
+
+The source code of this application is available on <a href="https://github.com/sophiaschaff/EventFahrplan/tree/hackmas26">GitHub</a>.
