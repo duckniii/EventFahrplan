@@ -1,0 +1,1 @@
+An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer.
